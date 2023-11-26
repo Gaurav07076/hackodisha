@@ -70,8 +70,6 @@ To run the Jupyter Notebook
 
 ## Screenshots
 
-![WhatsApp Image 2023-09-10 at 7 13 55 PM (4)](https://github.com/uncleSlayer/hackodisha/assets/103797867/100e3517-2fda-4441-bce5-0bc821634b12)
-
 
 
 ![WhatsApp Image 2023-09-10 at 7 13 55 PM (2)](https://github.com/uncleSlayer/hackodisha/assets/103797867/6a4f6ec9-f9df-4550-b8ee-44da4cdf43bd)
